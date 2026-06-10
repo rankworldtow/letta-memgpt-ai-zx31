@@ -1,4 +1,4 @@
-# 
+# Elite Letta (MemGPT) tools. Featuring code-generation and collaborative-agents — optimized for maximum performance and efficiency.
 
 
 
